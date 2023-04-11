@@ -1,11 +1,15 @@
 body {
     background-color: #E8D3EB;
     font-family: 'Courier New', Courier, monospace;
+    max-width: 900px;
+    margin: auto;
 }
 
 .photo {
     border: 1px solid black;
     border-radius: 50px;
+    height: 100px;
+    width: 100px;
 }
 
 #title, .subtitle, .post_title{
@@ -41,11 +45,14 @@ a {
 .post_content{
     margin: 0;
     margin-bottom: 15px;
+    text-align: justify;
 }
 
 .post_image{
     margin: 0;
     margin-bottom: 15px;
+    max-height: 250px;
+    width: 100%;
 }
 
 .contat_list{

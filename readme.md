@@ -51,3 +51,8 @@ A idéia é complementar os conhecimentos em um site pessoal, no estilo blog.
 - Estilizando os textos
 - apresentando font, font-size, font-style, font-weight, text-transform, text-decoration
 - Estilizando as listas 
+
+## Aula 8
+
+- Trabalhando e conhecendo alinhamentos
+- apresentando margin, text-align, height, width, max-heigth, max-width
