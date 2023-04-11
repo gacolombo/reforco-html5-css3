@@ -34,3 +34,10 @@ A idéia é complementar os conhecimentos em um site pessoal, no estilo blog.
 - Listas
 - li, ul e ol
 - Usando as listas para fazer o rodapé do site
+
+## Aula 6
+
+- CSS3
+- Introdução, seletores e criação do arquivo style.css
+- Entendendo box-model
+- Utilizando cores para melhor visualizar o box-model
