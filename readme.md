@@ -28,3 +28,9 @@ A idéia é complementar os conhecimentos em um site pessoal, no estilo blog.
 - Trabalhando com imagens
 - tag img, conhecendo src e alt
 - organizacao de projeto, adicionando um diretorio para as imagens e buscando-os no src
+
+## Aula 5
+
+- Listas
+- li, ul e ol
+- Usando as listas para fazer o rodapé do site
