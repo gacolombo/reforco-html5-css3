@@ -41,3 +41,13 @@ A idéia é complementar os conhecimentos em um site pessoal, no estilo blog.
 - Introdução, seletores e criação do arquivo style.css
 - Entendendo box-model
 - Utilizando cores para melhor visualizar o box-model
+
+## Aula 7
+
+- Estilizando todos os elementos
+- Colocando cores
+- Ajustando padding, margin dos elementos
+- Padronizando os pixels
+- Estilizando os textos
+- apresentando font, font-size, font-style, font-weight, text-transform, text-decoration
+- Estilizando as listas 
