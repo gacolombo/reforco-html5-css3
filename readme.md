@@ -22,3 +22,9 @@ A idéia é complementar os conhecimentos em um site pessoal, no estilo blog.
 
 - tag a
 - conhecendo o href, mailto e target
+
+## Aula 4
+
+- Trabalhando com imagens
+- tag img, conhecendo src e alt
+- organizacao de projeto, adicionando um diretorio para as imagens e buscando-os no src
